@@ -7,4 +7,4 @@ https://etherscan.io/address/0xc7b4cab2a65d1d70d3e418aa18c3cc2da4215ef6
 ThanahCoin transactions can be viewed here:
 https://etherscan.io/token/0xc7b4cab2a65d1d70d3e418aa18c3cc2da4215ef6
 
-ThanahCoin Guide.docx contains detailed step-by-step instructions for how to use ThanahCoin.
+ThanahCoinGuide.docx contains detailed step-by-step instructions for how to use ThanahCoin.
